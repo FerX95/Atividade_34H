@@ -1,0 +1,30 @@
+body{
+    background-color: #f84d4d;
+}
+.main{
+    text-align: center;
+    margin: auto;
+    width: 450px;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.main img{
+    width: 250px;
+    border-radius: 50%;
+}
+
+.main a{
+    background-color: #06070a;
+    padding: 7px 25px;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+    padding: 8px;
+}
