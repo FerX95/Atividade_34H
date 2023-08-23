@@ -2,7 +2,7 @@ body{
     background-color: #483d8b;
 }
 
-.main{
+.container{
     text-align: center;
     margin: auto;
     width: 450px;
@@ -11,12 +11,12 @@ body{
     border-radius: 10px;
 }
 
-.main img{
+.container img{
     width: 250px;
     border-radius: 50%;
 }
 
-.main a{
+.container a{
     background-color: #6495ed;
     padding: 7px 25px;
     color: #ffffff;
