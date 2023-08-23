@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family= Parisienne & display=swap') ;
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: #ff329f;
+}
+
+.main{
+    text-align: center;
+    margin: auto;
+    width: 450px;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.main img{
+    width: 250px;
+    border-radius: 50%;
+}
+
+.main a{
+    background-color: #6495ed;
+    padding: 7px 25px;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.main p{
+    margin-bottom: 10px;
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+.main h1{
+    font-family: 'Parisienne', cursive;
+}
